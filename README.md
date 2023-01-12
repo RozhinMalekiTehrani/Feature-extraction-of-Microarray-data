@@ -11,4 +11,4 @@ second, reducing the dimension of the data set, not only can decrease the time c
 third, I will compare a plenty of classifiers to determine which model is appropriate for Microarray data analysis.
 
 
-At the last stage, I will check these methods on mandle data set, to grasp whether these methods are working perfectly on other domain of domain dataset or not. 
+At the last stage, I will check these methods on mandle data set, to grasp whether these methods are working perfectly on other domain of dataset or not. 
